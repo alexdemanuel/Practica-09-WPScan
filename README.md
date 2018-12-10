@@ -1,4 +1,4 @@
-# Practica-10-WPScan
+# Practica-09-WPScan
 
  - Instalamos awscan con:
 
@@ -74,8 +74,7 @@ Some values are settable in a config file, see the example.conf.json
 --verbose  | -v                     Verbose output.
 --version                           Output the current version and exit.
 
-
-´´´
+```
 Para iniciar la auditoria de la pagina que deseemos ponemos lo siguiente:
 
 ```bash
